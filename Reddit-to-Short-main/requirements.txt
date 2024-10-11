@@ -1,0 +1,9 @@
+redvid==2.0.4
+moviepy==1.0.3
+scikit-image==0.23.2
+apiclient==1.0.4
+praw==7.7.1
+httplib2~=0.20.4
+oauth2client==4.1.3
+google-api-python-client~=2.53.0
+Pillow==9.5.0
