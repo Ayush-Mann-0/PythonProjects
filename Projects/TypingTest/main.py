@@ -52,7 +52,7 @@ def main():
         
         # Retry prompt
         retry = input("Do you want to retry? (yes/no): ").strip().lower()
-        if retry != 'yes':
+        if retry != 'yes' or retry != "y":
             print('Thank you, goodbye!')
             time.sleep(1.5)
             break
