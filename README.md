@@ -118,7 +118,7 @@ A main Python script that serves as a launcher for all of the above projects. It
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/python-projects.git
+    git clone https://github.com/Ayush-Mann-0/PythonProjects
     ```
 2. Navigate to the desired project directory.
 3. Run the Python script for the specific project:
